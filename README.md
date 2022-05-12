@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Naomitor
+- 👀 I’m interested in learning to code. 
+- To get me started I decided to set the goal to write a program that can calculate the possibilites and results of any dice set thrown.
+- I first started to write it in Python while very easy to start it was slow and the limited multithreading lead me to C++.
+- That´s what i´m working with right now and hope to finish this project with
+- 🌱 I’m currently learning to program in C++ and Pyhton
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
